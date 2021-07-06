@@ -1,0 +1,7 @@
+<html>
+<head><title>страница</tite>
+</head>
+<body>
+<h1>Моя первая <br> страница</h1>
+</body>
+</html>
